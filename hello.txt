@@ -1,8 +1,5 @@
-hello JING
-<<<<<<< HEAD
-hello JING
-hello JING
-hello JING
-=======
-hello JING
->>>>>>> hot-fix
+Hello JING
+Hello JING
+Hello JING
+Hello JING
+
